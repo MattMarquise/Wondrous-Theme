@@ -1,9 +1,9 @@
 # Wondrous Theme
-![Matthew's Profile Image](https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png)
-HTML, CSS, & JS landing menu theme inspired by Superhuman site.
+![Wondrous Theme](https://github.com/MattMarquise/Wondrous-Theme/blob/main/wondrous1.jpg)
+HTML, CSS, & JS landing menu theme inspired by Superhuman.
 
 ### What does this template site include?
  - Bootstrap 5
  - Custom CSS Stylesheet
- - Welcolme Message using Time of Day Recognition via JS.
+ - Customized welcolme message using a time of day recognition algorithm via JS.
  - Randomized image background on rotate timer using JS
