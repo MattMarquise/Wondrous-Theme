@@ -1,0 +1,104 @@
+/* BODY & HTML */
+  body, html {
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+      font-family: 'Didact Gothic', sans-serif;
+      cursor: default;
+      background-size: cover;
+      background-color: black;
+      background-attachment: fixed;
+      background-position: center center;
+  }
+
+/* ALL LINKS */
+  a {
+      text-decoration: none;
+      color: white;
+  }
+
+/* LINKS THAT DON'T CHANGE COLOR ON HOVER */
+  #nohover:hover {
+      color: white;
+  }
+
+/* ICON BEFORE */
+  .fa-times-thin:before {
+      content: '\00d7';
+  }
+
+/* CONTAINER */
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+/* IMAGE ID */
+  #img {
+      display: inline-block;
+      width: auto;
+      height: 100%;
+  }
+
+
+/* POSITIONING ON BG IMAGE */
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+/* SIDENAV */
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    opacity: 0.8;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+
+  .sidenav a {
+      padding: 8px 8px 8px 32px;
+      text-decoration: none;
+      font-size: 25px;
+      color: #ffffff;
+      display: block;
+      transition: 0.3s;
+  }
+
+  .sidenav a:hover {
+      color: #818181;
+  }
+
+  .sidenav .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+  }
+
+  @media screen and (max-height: 450px) {
+      .sidenav {padding-top: 15px;}
+      .sidenav a {font-size: 18px;}
+  }
