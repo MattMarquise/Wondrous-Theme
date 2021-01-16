@@ -1,4 +1,5 @@
 # Wondrous Theme
+![Matthew's Profile Image](https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png)
 HTML, CSS, & JS landing menu theme inspired by Superhuman site.
 
 ### What does this template site include?
