@@ -6,7 +6,9 @@ HTML, CSS, & JS landing menu theme inspired by Superhuman.
 [Wondrous Theme Demo](https://matthewmarquise.com/wondrous)
 
 ### What does this template site include?
- - Bootstrap 5
- - Custom CSS Stylesheet
  - Customized welcolme message using a time of day recognition algorithm via JS.
  - Randomized image background on rotate timer using JS
+ - Bootstrap 5
+ - Custom CSS Stylesheet
+ - 
+ - 
