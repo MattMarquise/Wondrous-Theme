@@ -10,5 +10,3 @@ HTML, CSS, & JS landing menu theme inspired by Superhuman.
  - Randomized image background on rotate timer using JS
  - Bootstrap 5
  - Custom CSS Stylesheet
- - 
- - 
